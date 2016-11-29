@@ -1,3 +1,3 @@
 # Matlab-Codes
 
-% Diffrent MAtlab funcions for most comprehensive excersices.
+% Different Matlab funcions for most comprehensive excersices.
